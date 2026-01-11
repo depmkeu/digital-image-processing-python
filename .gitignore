@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+
+# Output images (hasil)
+*_output.*
+*.png
+*.jpg
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tempCodeRunnerFile.py
